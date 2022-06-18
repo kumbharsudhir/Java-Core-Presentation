@@ -1,4 +1,5 @@
 # Java-Core-Presentation
+# Online Password Generator using Java Projact
 # Password-Generator
 This project is a Java Console Application to generate Random passwords and performing a password strength check.
 
